@@ -1,0 +1,3 @@
+Trabalho feito com o intuito de aprofundar meus conhecimentos na biblioteca pandas. Para tal, foi usado como tópico de estudo a taxa de natalide das cidades do Rio Grande do Sul, do período de 1992 a 2020, disponibilizadas no site https://dados.rs.gov.br/, no conjunto de dados sobre Demografia - População - Estimativas Populacionais - Total.
+Nele, análisa-se o aumento ou decremento da taxa de natalidade ao longo da época do estudo em questão, utilizando-se de regressão linear. Uma futura consideração seria ver se com o mesmo método é possível prever a taxa de natalidade nos anos por vir, mas temo que esse método seja muito simplório para tal.
+No futuro planjo disponibilizar um programa com interface gráfica para tornar o verificação desses dados mais amigável.
